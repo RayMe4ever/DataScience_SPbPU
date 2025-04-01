@@ -10,9 +10,13 @@
 - Положение сидя
 - Положение лежа
 - Положение стоя
+
 [Пример](http://www.youtube.com/watch?v=XOEN9W05_4A) записи одного из добровольцев производящего все 6 действий.
+
 Статья с [Kaggle](https://www.kaggle.com/datasets/uciml/human-activity-recognition-with-smartphones/discussion?sort=undefined) о нашем датасете.
+
 [Статья](https://www.sciencedirect.com/science/article/pii/S0957417424000083) в которой разбирают подобную задачу и там есть наш датасет.
+
 Просто крутая [статья](https://link.springer.com/article/10.1007/s40860-021-00147-0) со спрингера. 
 ## Цель
 *Необходимо проработать*
